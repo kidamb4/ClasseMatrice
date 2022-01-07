@@ -144,3 +144,6 @@ class MyMatrix:
         else:
             print("Equation insoluble")
             
+if __name__ == "__main__":
+    m1 = MyMatrix(4,3)
+    print(m1.dim())
