@@ -143,4 +143,6 @@ class MyMatrix:
             
         else:
             print("Equation insoluble")
+    def demo(self,a):
+        print('bonjour')
             
